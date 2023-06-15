@@ -1,0 +1,7 @@
+{
+	"require": {
+		"php": ">=7.4",
+		"ext-bcmath": "*",
+		"google/cloud-monitoring": "^1.0.0"
+	}
+}
